@@ -1,6 +1,6 @@
 sistema_escolar = {
     'Curso1': {
-        'nombre': 'Curso de Python',
+        'nombre': 'Curso de Java',
         'precio': 100,
         'profesor': 'Juan Pérez',
         'contacto': 'juan.perez@bigbaydata.com',
